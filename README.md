@@ -1,62 +1,25 @@
-# 📘 PALB – DSA in Python (README)
+# 📘 PABL-2CSE16 – Assignments Repository
 
-Welcome to the **PALB (Practical & Applied Learning Batch)** class repository! 🚀
-This repo is created for learning and practicing **Data Structures and Algorithms (DSA) using Python** as part of our college curriculum.
-
----
-
-## 📚 Course Overview
-
-In this class, we focus on:
-
-* Understanding core **Data Structures**
-* Learning **Algorithmic thinking**
-* Writing clean and efficient **Python code**
-* Solving real-world problems using DSA concepts
+Welcome to the **PABL (Practical & Applied Learning Batch)** class repository! 🚀
+This repo is used to organize and submit **Homework** and **Internal** assignments for the 2CSE16 batch.
 
 ---
 
-## 🧠 Topics Covered
+## 📚 Repository Overview
 
-### 🔹 Python Basics
+This repository is organized by assignment type and session/class sections:
 
-* Variables & Data Types
-* Input / Output
-* Conditional Statements
-* Loops
-* Functions
+* **Homework Assignment**
+* **Internal Assignment**
 
-### 🔹 Data Structures
+---
 
-* Arrays / Lists
-* Strings
-* Tuples
-* Sets
-* Dictionaries
-* Stack
-* Queue
-* Linked List
+## 🧠 Contents
 
-### 🔹 Algorithms
+Each assignment folder contains the work for that section and session/class:
 
-* Searching Algorithms
-
-  * Linear Search
-  * Binary Search
-* Sorting Algorithms
-
-  * Bubble Sort
-  * Selection Sort
-  * Insertion Sort
-  * Merge Sort
-  * Quick Sort
-
-### 🔹 Problem Solving
-
-* Pattern problems
-* Logical problems
-* Recursion
-* Time & Space Complexity (Big-O Notation)
+* **S1** – Session/Class 1 submissions
+* **S2** – Session/Class 2 submissions
 
 ---
 
@@ -75,19 +38,17 @@ PABL-2CSE16/
 
 ---
 
-## 🎯 Learning Objectives
+## 🎯 Purpose
 
-* Build strong programming logic
-* Master DSA fundamentals
-* Improve coding skills in Python
-* Prepare for placements, interviews & competitive programming
+* Keep assignments structured and easy to find
+* Maintain a clear history of submissions
 
 ---
 
 ## 🛠️ Requirements
 
-* Python 3.x
-* Any code editor (VS Code, PyCharm, IDLE, etc.)
+* Follow the assignment instructions provided by faculty
+* Use any suitable editor or IDE
 
 ---
 
@@ -99,7 +60,7 @@ PABL-2CSE16/
 
 ## 📌 Maintained By
 
-**PALB Class – DSA in Python**
+**PABL Class – 2CSE16**
 Ritesh Kumar
 
 ---
